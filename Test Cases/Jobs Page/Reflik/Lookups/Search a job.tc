@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search a job</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8efb940d-2dfe-4510-a8a3-a57c32561e85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a30b49f-b5cc-4ed4-a1ed-f6728d9b50e7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2a30b49f-b5cc-4ed4-a1ed-f6728d9b50e7</id>
+      <masked>false</masked>
+      <name>Text</name>
+   </variable>
+</TestCaseEntity>

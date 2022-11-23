@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Clear Search btn</name>
+   <tag></tag>
+   <elementGuidId>59d5470d-30ea-4a8a-b7d2-d5c3f76bc266</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.primaryBut.butOuterLine.clearsearch</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@name=''])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3b023be6-74e0-488b-8695-cc6a64a71786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e79cacde-f140-47f1-b45a-bd27f7f9f70b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>primaryBut butOuterLine clearsearch</value>
+      <webElementGuid>817d18f0-bc03-4954-8cad-420c9eebd792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Clear Search</value>
+      <webElementGuid>704ad9f1-019e-4c3a-8c44-ed0c247391a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ux-gray-bg pc ng-scope&quot;]/div[@class=&quot;container container2 marContTop joblistMainContainer&quot;]/div[@class=&quot;jobsListContainer&quot;]/div[@class=&quot;jobSearch&quot;]/input[@class=&quot;primaryBut butOuterLine clearsearch&quot;]</value>
+      <webElementGuid>eda47d8f-337f-47e2-beee-6af937cf551d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name=''])[2]</value>
+      <webElementGuid>26b5ad83-a580-429c-aa47-0d1551be099b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/input[2]</value>
+      <webElementGuid>b1a7ad2a-350c-456c-8e58-4baab860ec96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>20979161-8534-4921-8782-5da6ec69f9aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

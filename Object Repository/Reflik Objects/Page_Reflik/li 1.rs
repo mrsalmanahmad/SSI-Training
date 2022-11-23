@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li 1</name>
+   <tag></tag>
+   <elementGuidId>edfa2cc6-e87f-4160-ac64-3774e78a6c2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.easy-autocomplete</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;eac-container-jobtitle&quot;]/ul/li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b402131c-2cc4-4148-8d21-a09cd876f69e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>easy-autocomplete</value>
+      <webElementGuid>cc01f8c8-76c3-4436-97cc-ebff73146d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Embedded Systems Software Engineer - Toronto, Canada. Lead Software Engineer (Java Developer) - Chennai, TamilNadu. Lead Software Engineer (Java Full Stack) - Chennai, TamilNadu. Principal Software Engineer - Java Full Stack Developer - Tampa Jersey City McLean, Virginia. Lead Software Engineer (Full Stack Developer) - Tampa, Florida. Software Engineer (Java / J2EE) - 203767 - Chennai, TamilNadu.</value>
+      <webElementGuid>869bd006-6dac-4e03-b783-d5a0e0a4a5bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ux-gray-bg pc ng-scope&quot;]/div[@class=&quot;container container2 marContTop joblistMainContainer&quot;]/div[@class=&quot;jobsListContainer&quot;]/div[@class=&quot;jobSearch&quot;]/div[@class=&quot;searchInput&quot;]/div[@class=&quot;easy-autocomplete&quot;]</value>
+      <webElementGuid>45869e01-a480-4ec8-b03a-fc9f8a8d406c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]</value>
+      <webElementGuid>8551b8bc-463e-44a5-90b1-aa94a744ec1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Embedded Systems Software Engineer - Toronto, Canada. Lead Software Engineer (Java Developer) - Chennai, TamilNadu. Lead Software Engineer (Java Full Stack) - Chennai, TamilNadu. Principal Software Engineer - Java Full Stack Developer - Tampa Jersey City McLean, Virginia. Lead Software Engineer (Full Stack Developer) - Tampa, Florida. Software Engineer (Java / J2EE) - 203767 - Chennai, TamilNadu.' or . = ' Embedded Systems Software Engineer - Toronto, Canada. Lead Software Engineer (Java Developer) - Chennai, TamilNadu. Lead Software Engineer (Java Full Stack) - Chennai, TamilNadu. Principal Software Engineer - Java Full Stack Developer - Tampa Jersey City McLean, Virginia. Lead Software Engineer (Full Stack Developer) - Tampa, Florida. Software Engineer (Java / J2EE) - 203767 - Chennai, TamilNadu.')]</value>
+      <webElementGuid>8a1f25e5-a8fe-427d-b8b7-1af5eb244a4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

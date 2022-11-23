@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search btn</name>
+   <tag></tag>
+   <elementGuidId>a025f8f3-8697-46b2-9a96-ad4fa07db001</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.JB-search-btn.textbox-marg-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='SEARCH']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d0c4ba89-7c23-4478-b84f-765eba140a97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>JB-search-btn textbox-marg-left</value>
+      <webElementGuid>17c64dec-5ae2-4621-add5-2a42955684a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5753f533-68b8-402e-8c0b-9a28d89b9122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>SEARCH</value>
+      <webElementGuid>8f5c5691-0b5c-4c5e-9418-e6938c2d7761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-jobs[1]/div[@class=&quot;container&quot;]/section[@class=&quot;container JB-margin-top&quot;]/div[@class=&quot;w-930 bg-light&quot;]/input[@class=&quot;JB-search-btn textbox-marg-left&quot;]</value>
+      <webElementGuid>a481597f-1bd7-4042-8456-3da63550cdf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='SEARCH']</value>
+      <webElementGuid>8a7da879-c347-4219-879f-ef6189da4032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>84497cf1-a12a-44db-9dea-a6d6f5dc5abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>8666a04f-ffd4-4379-b3aa-4a93376be3f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

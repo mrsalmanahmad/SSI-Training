@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.hireify.co/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'tech@resiliencyit.com'</initValue>
+      <name>UserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Summer#1'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\juman\\OneDrive\\Desktop\\ResITfiles\\Katalon_Automation\\Katalon_Studio_Windows_64-8.5.2\\Hireify.co\\Hireify.co\\Jobs Keywords\\Unable to Find Jobs.xlsx'</initValue>
+      <name>KeywordsPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.reflik.com/signin'</initValue>
+      <name>ReflikURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'tech@resiliencyit.com'</initValue>
+      <name>Reflik_UserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'obyjuli1'</initValue>
+      <name>Reflik_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\juman\\OneDrive\\Desktop\\ResITfiles\\Katalon_Automation\\Katalon_Studio_Windows_64-8.5.2\\Hireify.co\\Hireify.co\\Jobs Keywords'</initValue>
+      <name>Reflik_KeywordPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Unable to file jobs Heirfiy'</initValue>
+      <name>Hireify_filename</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'\\\\Unable to file jobs Reflik.xlsx'</initValue>
+      <name>Reflik_filename</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

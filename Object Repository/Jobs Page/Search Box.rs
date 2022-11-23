@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search Box</name>
+   <tag></tag>
+   <elementGuidId>2ef0f9cd-a49c-4b06-b4d1-05789b925f82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.JB-textbox.JB-textbox-title-width.textbox-marg-left.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9609505a-d845-4444-83f7-052f029cf92e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>JB-textbox JB-textbox-title-width textbox-marg-left ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>9ee83dbe-abad-4590-9497-47cceba1a438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search by Job title or Skill or Jobcode or Location</value>
+      <webElementGuid>22f5bfd9-7bc9-493d-864c-d8e2dd13c907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d197fc5c-f4f8-4d58-bc28-2ff2ea13a72a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-jobs[1]/div[@class=&quot;container&quot;]/section[@class=&quot;container JB-margin-top&quot;]/div[@class=&quot;w-930 bg-light&quot;]/div[@class=&quot;searchClose-section&quot;]/input[@class=&quot;JB-textbox JB-textbox-title-width textbox-marg-left ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>9ddfdbb9-1118-42bd-a578-4fbd11881112</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>91d5cc5f-53b3-435b-a37b-69478eb87645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>e4abc0dc-a95c-45aa-b98a-73beab21b292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search by Job title or Skill or Jobcode or Location' and @type = 'text']</value>
+      <webElementGuid>3f69ae9e-d547-4f00-aaaf-3b2eabdcf4a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
